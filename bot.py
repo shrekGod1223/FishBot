@@ -46,7 +46,7 @@ t = time.localtime()
 current_time = time.strftime("%I:%M %p")
 
 # Fortniteapi.io api key
-apikey = 'ENTER API KEY'
+apikey = 'd3741e83-398f73f3-7baf80ac-4566ab27'
 
 apiurl = 'https://fortniteapi.io/v1/loot/fish?lang=en'
 headers = {'Authorization': apikey}
